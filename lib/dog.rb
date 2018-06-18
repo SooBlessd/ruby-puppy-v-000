@@ -9,11 +9,11 @@ class Dog
   
 end
 
-class Song
+# class Song
  
-  attr_accessor :name
+#   attr_accessor :name
  
-  def initialize(name)
-    @name = name
-  end
-end
+#   def initialize(name)
+#     @name = name
+#   end
+# end
