@@ -7,6 +7,6 @@ class Dog
    @@all << self
   end
   def clear_all
-    self.clear_all == self.reject
+    self.clear
   end
 end
