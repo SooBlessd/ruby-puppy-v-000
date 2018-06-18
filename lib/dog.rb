@@ -1,6 +1,6 @@
 class Dog
   def all
-    @@all = [ ]
+    @@all = all
   end
   
   
